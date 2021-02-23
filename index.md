@@ -24,8 +24,8 @@ The bot was built by Felix Kitaka aka Mutambuze as a way of utilizing his softwa
 
 **How do I access the bot?**
 
-The bot can be accessed on Telegram with the following link: https://t.me/MutambuzeBibleStudyBot
+The bot can be accessed on Telegram with the following link: [@MutambuzeBibleStudyBot](https://t.me/MutambuzeBibleStudyBot)
 
 **How do I contact you?**
 
-You can reach Felix Kitaka on Telegram at: https://t.me/felix_kitaka
+You can reach Felix Kitaka on Telegram at: [@felix_kitaka](https://t.me/felix_kitaka)
