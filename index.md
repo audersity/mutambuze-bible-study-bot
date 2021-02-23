@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Mutambuze’s Bible Study Bot
 
-You can use the [editor on GitHub](https://github.com/audersity/mutambuze-bible-study-bot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The bot is a bible study technological innovation that streams multiple versions of the bible over chat through messaging platforms like Telegram. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Features
 
-### Markdown
+1. Send a verse and receive back a message containing the verse along with support buttons to enable you to change the bible versions. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2. Send words you remember from scripture e.g. “for God so loved the world” and receive back a browsable list of verses containing those words. The search service allows you to dive deeper into a specific verse by pressing the “Read” button and returning to the search results by pressing the “Back” button.
 
-```markdown
-Syntax highlighted code block
+3. The smart pagination makes it easy to navigate the bible with limited scrolling by using the “Prev” and “Next” buttons.
 
-# Header 1
-## Header 2
-### Header 3
+4. The verse snap tool allows you to generate a photo of any verse - by simply pressing the camera button - that you can share with friends and family over social media.
 
-- Bulleted
-- List
+5. The audio bible support allows you to listen to the bible in both English (KJV) and Luganda at any time by simply pressing the sound buttons.
 
-1. Numbered
-2. List
+6. The verse mixer service makes it possible to read a verse in two bible versions at the same time by simply pressing the “Mix” button. At the moment, only KJV and the Luganda bible are supported.
 
-**Bold** and _Italic_ and `Code` text
+### FAQs
 
-[Link](url) and ![Image](src)
-```
+**Who built the bot?**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The bot was built by Felix Kitaka aka Mutambuze as a way of utilizing his software development skills for the gospel of Christ. The project began in 2016 but remained abandoned until it was revived in February 2021. 
 
-### Jekyll Themes
+**How do I access the bot?**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/audersity/mutambuze-bible-study-bot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The bot can be accessed on Telegram with the following link: https://t.me/MutambuzeBibleStudyBot
 
-### Support or Contact
+**How do I contact you?**
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You can reach Felix Kitaka on Telegram at: https://t.me/felix_kitaka
